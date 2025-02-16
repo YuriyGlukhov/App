@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "AppStart": {
+      "commandName": "Project"
+    }
+  }
+}
